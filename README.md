@@ -1,2 +1,3 @@
 # VWP-Stations
-VWP dashboard/app. cluster mapping, trendlines and station graphs.
+VWP dashboard/app. 
+Resampling, cluster mapping, stresses, trendlines, rainfall Lag times and station graphs.
